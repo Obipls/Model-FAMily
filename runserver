@@ -1,0 +1,2 @@
+ #!/bin/bash
+exec ./manage.py runserver_plus --cert /tmp/cert 8008
